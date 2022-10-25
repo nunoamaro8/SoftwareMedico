@@ -1,0 +1,316 @@
+{
+    "inalador" : [
+        {
+            "tipo" : ["LABA"],
+            "name" : "Striverdi",
+            "cam" : true,
+            "numOfInal" : 2,
+            "numPerDay" : 1,
+            "bio" : "Com expiração prévia + inalação lenta e profunda + apneia final",
+            "moreOptions" : [{
+                "name" : "Respimat",
+                "numOfInal" : 2,
+                "optionBio" :  "Com expiração prévia + inalação lenta e profunda + apneia final"
+            }]
+        },
+        {
+            "tipo" : ["LAMA"],
+            "name" : "Incruse",
+            "cam" : false,
+            "numOfInal" : 1,
+            "numPerDay" : 1,
+            "bio" : "Com expiração prévia + inalação rápida e vigorosa + apneia final",
+            "moreOptions" : []  
+        },
+        {
+            "tipo" : ["LAMA"],
+            "name" : "Braltus/Gregal",
+            "cam" : false,
+            "numOfInal" : 1,
+            "numPerDay" : 1,
+            "bio" : "Com expiração prévia + inalação rápida e vigorosa + apneia final",
+            "moreOptions" : []  
+        },
+        {
+            "tipo" : ["LAMA"],
+            "name" : "Seebri/Tovanor",
+            "cam" : false,
+            "numOfInal" : 1,
+            "numPerDay" : 1,
+            "bio" : "Com expiração prévia + inalação rápida e vigorosa + apneia final",
+            "moreOptions" : []  
+        },
+        {
+            "tipo" : ["LAMA"],
+            "name" : "Spiriva",
+            "cam" : true,       
+            "numOfInal" : 2,
+            "numPerDay" : 1,
+            "bio" : "Com expiração prévia + inalação lenta e profunda + apneia final",
+            "moreOptions" : [{
+                "name" : "Respimat",
+                "numOfInal" : 2,
+                "optionBio" : "Com expiração prévia + inalação lenta e profunda + apneia final" 
+                },
+                {
+                    "name" : "Handihaler",
+                    "numOfInal" : 1,
+                    "optionBio" : "Com expiração prévia + inalação rápida e vigorosa + apneia final"
+                }
+            ]  
+        },
+        {
+            "tipo" : ["LAMA"],
+            "name" : "Bretaris/Eklira",
+            "cam" : false,
+            "numOfInal" : 1,
+            "numPerDay" : 2,
+            "bio" : "Com expiração prévia + inalação rápida e vigorosa + apneia final",
+            "moreOptions" : []  
+        },
+        {
+            "tipo" : ["LABA/LAMA"],
+            "name" : "Ultibro/Xoterna",
+            "cam" : false,
+            "numOfInal" : 1,
+            "numPerDay" : 1,
+            "bio" : "Com expiração prévia + inalação rápida e vigorosa + apneia final",
+            "moreOptions" : []
+
+        },
+        {
+            "tipo" : ["LABA/LAMA"],
+            "name" : "Brimica/Duaklir",
+            "cam" : false,
+            "numOfInal" : 1,
+            "numPerDay" : 2,
+            "bio" : "Com expiração prévia + inalação rápida e vigorosa + apneia final",
+            "moreOptions" : []  
+        },
+        {
+            "tipo" : ["LABA/LAMA"],
+            "name" : "Anoro/Laventair",
+            "cam" : false,
+            "numOfInal" : 1,
+            "numPerDay" : 1,
+            "bio" : "Com expiração prévia + inalação rápida e vigorosa + apneia final",
+            "moreOptions" : []  
+        },
+        {
+            "tipo" : ["LABA/LAMA"],
+            "name" : "Spiolto",
+            "cam" : false,
+            "numOfInal" : 2,
+            "numPerDay" : 1,
+            "bio" : "Com expiração prévia + inalação lenta e profunda + apneia final",
+            "moreOptions" : []  
+        },
+        {
+            "tipo" : ["ICS"],
+            "name" : "Budesonido",
+            "cam" : false,
+            "numOfInal" : 2,
+            "numPerDay" : 2,
+            "bio" : "",
+            "moreOptions" : [{
+                "name" : "200ug",
+                "numOfInal" : 2,
+                "optionBio" : ""
+                },
+                {
+                "name" : "400ug",
+                "numOfInal" : 1,
+                "optionBio" : ""
+                }
+            ]  
+        },
+        {
+            "tipo" : ["ICS/LABA"],
+            "name" : "Symbicort pressurizado",
+            "cam" : true,
+            "numOfInal" : 2,
+            "numPerDay" : 2,
+            "bio" : "Com expiração prévia + inalação lenta e profunda + apneia final",
+            "moreOptions" : [{
+                "name" : "",
+                "numOfInal" : 2,
+                "optionBio" : "Com expiração prévia + inalação lenta e profunda + apneia final"
+                },
+                {
+                "name" : "",
+                "numOfInal" : 1,
+                "optionBio" : "Com expiração prévia + inalação lenta e profunda + apneia final"
+                }
+            ]  
+        },
+        {
+            "tipo" : ["ICS/LABA"],
+            "name" : "Symbicort pó seco",
+            "cam" : false,
+            "numOfInal" : 2,
+            "numPerDay" : 2,
+            "bio" : "",
+            "moreOptions" : [{
+                "name" : "",
+                "numOfInal" : 2,
+                "optionBio" : ""
+                },
+                {
+                "name" : "",
+                "numOfInal" : 1,
+                "optionBio" : ""
+                }
+            ]  
+        },
+        {
+            "tipo" : ["ICS/LABA"],
+            "name" : "BiResp/Duoresp",
+            "cam" : false,
+            "numOfInal" : 2,
+            "numPerDay" : 2,
+            "bio" : "Com expiração prévia + inalação rápida e vigorosa + apneia final",
+            "moreOptions" : [
+                {
+                    "name" : "",
+                    "numOfInal" : 2,
+                    "optionBio" : "Com expiração prévia + inalação rápida e vigorosa + apneia final"
+                    },
+                    {
+                    "name" : "",
+                    "numOfInal" : 1,
+                    "optionBio" : "Com expiração prévia + inalação rápida e vigorosa + apneia final"
+                    }
+            ]  
+        },
+        {
+            "tipo" : ["ICS/LABA"],
+            "name" : "Relvar/Revinty",
+            "cam" : false,
+            "numOfInal" : 1,
+            "numPerDay" : 1,
+            "bio" : "Com expiração prévia + inalação lenta e profunda + apneia final",
+            "moreOptions" : []  
+        },
+        {
+            "tipo" : ["ICS/LABA"],
+            "name" : "Airflusal",
+            "cam" : false,
+            "numOfInal" : 1,
+            "numPerDay" : 2,
+            "bio" : "",
+            "moreOptions" : []  
+        },
+        {
+            "tipo" : ["ICS/LABA"],
+            "name" : "Brisomax/Maizar/Seretaide",
+            "cam" : false,
+            "numOfInal" : 2,
+            "numPerDay" : 2,
+            "bio" : "",
+            "moreOptions" : [
+                {
+                    "name" : "",
+                    "numOfInal" : 2,
+                    "optionBio": ""
+                    },
+                    {
+                    "name" : "",
+                    "numOfInal" : 1,
+                    "optionBio" : ""
+                    }
+            ]  
+        },
+        {
+            "tipo" : ["ICS/LAMA/LABA"],
+            "name" : "Elebrato/Trelegy",
+            "cam" : false,
+            "numOfInal" : 1,
+            "numPerDay" : 1,
+            "bio" : "Com expiração prévia + inalação rápida e vigorosa + apneia final",
+            "moreOptions" : []  
+        },
+        {
+            "tipo" : ["ICS/LAMA/LABA"],
+            "name" : "Trixeo/Riltrava",
+            "cam" : true,
+            "numOfInal" : 2,
+            "numPerDay" : 2,
+            "bio" : "Com expiração prévia + inalação lenta e profunda + apneia final",
+            "moreOptions" : []  
+        }
+    ],
+    "outros_farmacos" : [
+        {
+            "name" : "Pulmiben",
+            "moreOptions" : [["1 cp dia diário", true], ["1 cp dia diário durante 10 dias", true], ["1 cp dia diário durante 15 dias", true]]
+            
+        },
+        {
+            "name" : "Milid",
+            "moreOptions" : [["1 cp dia diário", true], ["1 cp dia diário durante 10 dias", true], ["1 cp dia diário durante 15 dias", true]]
+        },
+        {
+            "name" : "Fluimucil",
+            "moreOptions" : [["1 cp dia diário", true], ["1 cp dia diário durante 10 dias", true], ["1 cp dia diário durante 15 dias", true]]
+        },
+        {
+            "name" : "Daxas",
+            "moreOptions" : [
+                ["1 cp de 250ug até terminar a caixa, depois passa a fazer 500ug até próxima consulta", true],
+                ["1 cp de 500ug por dia até próxima consulta", true]
+            ]
+        },
+        {
+            "name" : "Azitromicina",
+            "moreOptions" : [
+                ["1 cp por dia", true],
+                ["1 cp por dia 3 vezes por semana (Adicionar texto livre)", "addFreeText"]
+            ]
+        },
+        {
+            "name" : "Mirtazapina",
+            "moreOptions" : [
+                ["1cp 15 mg ao deitar", false],
+                ["1cp 30 mg ao deitar", false]
+            ]
+        },
+        {
+            "name" : "Filotempo/Aminofilina",
+            "moreOptions" : [
+                ["1 cp dia 12/12 horas", false],
+                ["1 cp por dia", true],
+                ["½ cp dia 12/12 horas", false]
+            ]
+        }
+
+    ],
+    "ventiladores" : [
+        {
+            "name" : "CPAP",
+            "moreOptions" : [
+                "Cumprir CPAP nocturno"
+            ]
+        },
+        {
+            "name" : "BPAP",
+            "moreOptions" : [
+                "cumprir bpap nocturno", 
+                "cumprir bpap nocturno, podendo fazer períodos de 1-2 horas durante o dia em caso de agravamento dos sintomas"
+            ]
+        }
+    ],
+    "cuidados" : [
+        [
+            "Vacinação da gripe anual",
+            "Fazer vacinação com Prevenar",
+            "Fazer vacinação com Pneumovax",
+            "Fazer vacinação com Vaxneuvance",
+            "Fazer vacinação com Apexxnar",
+            "Fazer vacinação com Zostavax",
+            "Fazer vacinação com Shingrix",
+            "Fazer vacinação com Boostrix",
+            "Cumprir cinesioterapia",
+            "Cumprir plano de Reabilitação Respiratória"
+        ]
+    ]
+}
